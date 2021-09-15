@@ -4,3 +4,4 @@ Models compared:<br/>
 1)GatedGCN<br/>
 2)GAT<br/>
 3)MoNet<br/>
+Results:
