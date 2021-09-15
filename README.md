@@ -5,4 +5,4 @@ Models compared:<br/>
 2)GAT<br/>
 3)MoNet<br/><br/>
 Results:
-![](Image/2.png)
+![](Pics/result.jpg)
