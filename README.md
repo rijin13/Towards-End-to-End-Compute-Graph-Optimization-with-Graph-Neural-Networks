@@ -3,5 +3,5 @@ This project is about finding the best model and parameter configuration for the
 Models compared:<br/>
 1)GatedGCN<br/>
 2)GAT<br/>
-3)MoNet<br/>
+3)MoNet<br/><br/>
 Results:
